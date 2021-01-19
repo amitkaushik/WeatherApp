@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XTB2B02LsXyeFkKtKdHza8xlTkfT/XOKt9l7jYed49I7AfsDR+8CM3XHlrO0keQRdd75EIsKJv1GAxruBz4luw==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\WeatherInfo\\WeatherInfo\\WeatherInfo.iOS\\WeatherInfo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52057888\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\52057888\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

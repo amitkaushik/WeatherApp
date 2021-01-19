@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WeatherInfo.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                    <Label Text="Weather App Using Xamarin Forms" FontSize="20" VerticalOptions="Center" HorizontalOptions="Center"/>
+                </StackLayout>
+            </Frame>
+            <StackLayout HorizontalOptions="Start" Margin="5,5,0,0" WidthRequest="400">
+                <Label Text="Enter Your PIN Code" FontAttributes="Bold" TextColor="blue" Margin="5" x:Name="lblSearch" />
+                <Label Text="PIN Code" TextColor="White" Margin="5" x:Name="lblPinCode" />
+                <StackLayout Orientation="Horizontal">
+                    <Entry WidthRequest="100" x:Name="entPinCode" />
+                    <Button Text="Get Weather Info" x:Name="btnGetWeather" Clicked="btnGetWeather_Click" />
+                </StackLayout>
+            </StackLayout>
+            <StackLayout VerticalOptions="StartAndExpand">
+                <Label Text="Location" TextColor="Black" FontSize="14" />
+                <Label Text="" Margin="10,0,0,10" x:Name="txtLocation" />
+                <Label Text="Temperature" TextColor="Black" FontSize="14" />
+                <Label Text="" Margin="10,0,0,10" x:Name="txtTemperature" />
+                <Label Text="Sunrise" TextColor="Black" FontSize="14" />
+                <Label Text="" Margin="10,0,0,10" x:Name="txtSunrise" />
+                <Label Text="Sunset" TextColor="Black" FontSize="14" />
+                <Label Text="" Margin="10,0,0,10" x:Name="txtSunset" />
+                <Label Text="Wind Speed" TextColor="Black" FontSize="14" />
+                <Label Text="" Margin="10,0,0,10" x:Name="txtWind" />
+                <Label Text="Humidity" TextColor="Black" FontSize="14" />
+                <Label Text="" Margin="10,0,0,10" x:Name="txtHumidity" />
+                </StackLayout>
+          
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

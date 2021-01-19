@@ -1,0 +1,14 @@
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\bin\Debug\netstandard2.0\WeatherInfo.deps.json
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\bin\Debug\netstandard2.0\WeatherInfo.dll
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\bin\Debug\netstandard2.0\ref\WeatherInfo.dll
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\bin\Debug\netstandard2.0\WeatherInfo.pdb
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\WeatherInfo.AssemblyInfoInputs.cache
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\WeatherInfo.AssemblyInfo.cs
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\WeatherInfo.csproj.CoreCompileInputs.cache
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\WeatherInfo.dll
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\ref\WeatherInfo.dll
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\WeatherInfo.pdb
+C:\Project\WeatherInfo\WeatherInfo\WeatherInfo\obj\Debug\netstandard2.0\WeatherInfo.csprojAssemblyReference.cache
